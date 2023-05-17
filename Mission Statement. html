@@ -1,1 +1,21 @@
+<!DOCTYPE html>
 
+<html>
+
+<head>
+<link rel="stylesheet" href="styles.css">
+  <div class="navibar-fixed-top">
+    <ul>
+      <li style="float"left">
+                            
+<li> <a href="index.html">HOME</a></li>
+  <li> <a href="Mission Statement.html">MISSION STATEMENT</a></li>
+  <li> <a href="Vision Statement.html"> VISION STATEMENT</a></li>
+  <li> <a href="Aims and Objectives.html">AIMS AND OBJECTIVES</a></li>
+  <li> <a href="Contact">CONTACT</a></li>
+ 
+                             </ul>
+                             </div>
+  </head>
+
+  <body>
